@@ -2,12 +2,12 @@ using UnityEngine;
 
 public class CharacterLocomotion : MonoBehaviour
 {
-    private Animator _animator;
+    [SerializeField] private Animator _animator;
     private Vector2 _input;
 
     void Awake()
     {
-        _animator = GetComponent<Animator>();
+        // _animator = GetComponent<Animator>();
     }
 
     void Update()

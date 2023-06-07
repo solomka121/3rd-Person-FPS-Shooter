@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca5f34bb-cb24-4998-a2de-c3dcd4d3e513" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Addons/PolygonPrototype/Prefabs/Other/FOV.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Addons/PolygonPrototype/Prefabs/Other/FOV.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Addons/PolygonPrototype/Prefabs/Props/SM_Prop_Chest_Wood_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Addons/PolygonPrototype/Prefabs/Props/SM_Prop_Chest_Wood_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Addons/Tiny_Toony_City_Demo/Scenes/Demo_Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Addons/Tiny_Toony_City_Demo/Scenes/Demo_Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Addons/ToonyTinyPeople/TT_demo/prefabs/TT_demo_police.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Addons/ToonyTinyPeople/TT_demo/prefabs/TT_demo_police.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MidnightWorks (TT)/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MidnightWorks (TT)/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MidnightWorks (TT)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MidnightWorks (TT)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Addons/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/models/TT_demo_police.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Addons/Tiny_Toony_City_Demo/PolygonBlacksmith/TT_Citizens_demo/models/TT_demo_police.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/PlayerController.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/PlayerController.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/StandartAssets/Male/Animations/Strafe/m@StrafeIdle.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/StandartAssets/Male/Animations/Strafe/m@StrafeIdle.fbx.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterLocomotion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CharacterLocomotion.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,13 +22,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.animation.rigging@1.1.1/Runtime/Utils/BoneRenderer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterAiming.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterLocomotion.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterAiming.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterLocomotion.cs" />
       </list>
     </option>
   </component>
@@ -68,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685702032522</updated>
-      <workItem from="1685702061639" duration="945000" />
+      <workItem from="1685702061639" duration="2154000" />
     </task>
     <servers />
   </component>
